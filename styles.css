@@ -255,4 +255,8 @@ button.hint:hover {
     position: relative;
     bottom: 5px;
   }
+  .key_container h2 {
+  font-size: 25px;
+}
+
 }
